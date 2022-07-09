@@ -1,10 +1,25 @@
 <!--
-SPDX-FileCopyrightText: 2022 Sidings Media <bladerouter@sidingsmedia.com>
+SPDX-FileCopyrightText: 2022 Sidings Media <packetblade@sidingsmedia.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Blade router
-Template repository
+# Blade router - Logos
+This repo contains all of the logos and logo related files for use with
+the packet blade project. 
+
+## Repo structure
+
+All images are designed using inkscape and are
+saved as SVGs in the root of the repo. These SVGs are then rendered into
+useful sizes in the `rendered` directory with the naming format
+`name-widthxheight.format`.
+
+## Logo design
+
+All of the logos have been designed in house by people who are not
+ordinarily graphic designers. If you have any suggestions on how we can
+improve these logos, please just create an issue. We would be more than
+happy to take your comments on board and improve the design.
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
