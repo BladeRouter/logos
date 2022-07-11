@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="756.57886mm"
+   width="2046.4705mm"
    height="589.3205mm"
-   viewBox="0 0 756.57886 589.3205"
+   viewBox="0 0 2046.4705 589.3205"
    version="1.1"
    id="svg5"
    sodipodi:docname="packet-text-side-white.svg"
@@ -27,7 +27,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.079999996"
-     inkscape:cx="2606.2501"
+     inkscape:cx="2350.0001"
      inkscape:cy="1162.5001"
      inkscape:window-width="1920"
      inkscape:window-height="1021"
@@ -45,9 +45,9 @@
   <defs
      id="defs2">
     <rect
-       x="3002.5514"
-       y="454.62629"
-       width="5130.8124"
+       x="3002.5515"
+       y="454.62628"
+       width="5130.8125"
        height="1032.8639"
        id="rect7549" />
     <inkscape:path-effect
@@ -153,7 +153,7 @@
      inkscape:label="Base"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(356.32339,14.989057)"
+     transform="translate(356.32338,14.989057)"
      style="display:inline">
     <g
        id="g21181"
@@ -173,7 +173,7 @@
     <path
        id="rect10301"
        style="opacity:0.986;mix-blend-mode:normal;fill:#ffffff;fill-opacity:0.999003;stroke:url(#linearGradient38625);stroke-width:50;stroke-opacity:1"
-       d="m -288.92866,10.010943 h 631.82489 a 32.35923,32.35923 45 0 1 32.35923,32.35923 V 506.93671 a 42.394731,42.394731 135 0 1 -42.39473,42.39473 h -631.82489 a 32.35923,32.35923 45 0 1 -32.35923,-32.35923 V 52.405674 a 42.394731,42.394731 135 0 1 42.39473,-42.394731 z"
+       d="m -288.92866,10.010943 631.82489,0 a 32.35923,32.35923 45 0 1 32.35923,32.35923 l 0,464.566537 a 42.394731,42.394731 135 0 1 -42.39473,42.39473 l -631.82489,0 a 32.35923,32.35923 45 0 1 -32.35923,-32.35923 l 0,-464.566536 a 42.394731,42.394731 135 0 1 42.39473,-42.394731 z"
        inkscape:path-effect="#path-effect13910"
        inkscape:original-d="M -331.32339,10.010943 H 375.25546 V 549.33144 h -706.57885 z"
        transform="translate(7.2916666e-6)" />
@@ -191,19 +191,19 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;line-height:1.25;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4286);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-1114.168"
          y="1532.4418"
-         id="tspan29747">
+         id="tspan897">
 </tspan><tspan
          x="-1114.168"
          y="1949.1081"
-         id="tspan29749">01000010
+         id="tspan899">01000010
 </tspan><tspan
          x="-1114.168"
          y="2365.7743"
-         id="tspan29751">01101100
+         id="tspan901">01101100
 </tspan><tspan
          x="-1114.168"
          y="2782.4406"
-         id="tspan29753">01100001</tspan></text>
+         id="tspan903">01100001</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -271,6 +271,6 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:800px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect7549);fill:#ffffff;fill-opacity:1;stroke:#fffffe;stroke-opacity:1"><tspan
          x="3002.5508"
          y="1182.5223"
-         id="tspan29755">Packet Blade</tspan></text>
+         id="tspan905">Packet Blade</tspan></text>
   </g>
 </svg>
